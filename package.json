@@ -1,0 +1,25 @@
+{
+  "name": "nba-content-search-cli",
+  "version": "0.0.1",
+  "description": "Find official NBA team content via command line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkamla/nba-content-search-cli.git"
+  },
+  "keywords": [
+    "NBA",
+    "CLI",
+    "Search",
+    "Basketball"
+  ],
+  "author": "Micah Kamla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkamla/nba-content-search-cli/issues"
+  },
+  "homepage": "https://github.com/mkamla/nba-content-search-cli"
+}
