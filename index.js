@@ -364,18 +364,23 @@ var navigate = (function(){
 	};
 }());
 
+var enableUserInput = function(){
+	readline.emitKeypressEvents(process.stdin);
+	process.stdin.setRawMode(true);
+	process.stdin.on('keypress',keyHandler);
+};
+
 var init = function(){
 	if(!settings.length){
 		rl.question('NBA Team Name: ',function(team){
 			model.setTeam(team.toLowerCase());
+			enableUserInput();
 		});
 	} else {
 		model.setTeam(settings[0]);
+		enableUserInput();
 	}
 
-	readline.emitKeypressEvents(process.stdin);
-	process.stdin.setRawMode(true);
-	process.stdin.on('keypress',keyHandler);
 };
 
 module.exports = {
