@@ -25,37 +25,38 @@ nsearch
 You will then be prompted to supply an NBA team name value
 
 ### Team Name
-City, Nickname, Value
-Atlanta, Hawks, hawks
-Boston, Celtics, celtics
-Brooklyn, Nets, nets
-Charlotte, Hornets, hornets
-Chicago, Bulls, bulls
-Cleveland, Cavaliers, cavaliers
-Dallas, Mavericks, mavericks
-Denver, Nuggets, nuggets
-Detroit, Pistons, pistons
-Golden State, Warriors, warriors
-Houston, Rockets, rockets
-Indiana, Pacers, pacers
-Los Angeles, Clippers, clippers
-Los Angeles, Lakers, lakers
-Memphis, Grizzlies, grizzlies
-Miami, Heat, heat
-Milwaukee, Bucks, bucks
-Minnesota, Timberwolves, timberwolves
-New Orleans, Pelicans, pelicans
-New York, Knicks, knicks
-Oklahoma City, Thunder, thunder
-Orlando, Magic, magic
-Philadelphia, 76ers, sixers
-Phoenix, Suns, suns
-Portland, Trail Blazers, blazers
-Sacramento, Kings, kings
-San Antonio, Spurs, Spurs
-Toronto, Raptors, raptors
-Utah, Jazz, jazz
-Washington, Wizards, wizards
+|City | Nickname | Value |
+|-----|----------|-------|
+| Atlanta | Hawks | hawks |
+| Boston | Celtics | celtics |
+| Brooklyn | Nets | nets |
+| Charlotte | Hornets | hornets |
+| Chicago | Bulls | bulls |
+| Cleveland | Cavaliers | cavaliers |
+| Dallas | Mavericks | mavericks |
+| Denver | Nuggets | nuggets |
+| Detroit | Pistons | pistons |
+| Golden State | Warriors | warriors |
+| Houston | Rockets | rockets |
+| Indiana | Pacers | pacers |
+| Los Angeles | Clippers | clippers |
+| Los Angeles | Lakers | lakers |
+| Memphis | Grizzlies | grizzlies |
+| Miami | Heat | heat |
+| Milwaukee | Bucks | bucks |
+| Minnesota | Timberwolves | timberwolves |
+| New Orleans | Pelicans | pelicans |
+| New York | Knicks | knicks |
+| Oklahoma City | Thunder | thunder |
+| Orlando | Magic | magic |
+| Philadelphia | 76ers | sixers |
+| Phoenix | Suns | suns |
+| Portland | Trail Blazers | blazers |
+| Sacramento | Kings | kings |
+| San Antonio | Spurs | Spurs |
+| Toronto | Raptors | raptors |
+| Utah | Jazz | jazz |
+| Washington | Wizards, wizards |
 
 ## Interface
 
